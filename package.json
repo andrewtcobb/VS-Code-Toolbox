@@ -2,7 +2,7 @@
   "name": "vs-code-toolbox",
   "displayName": "VS Code Toolbox",
   "description": "An extension pack for VS Code containing a collection of helpful, language-agnostic extensions for VS Code.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "AndrewCobb",
   "icon": "vs-code-toolbox.png",
   "engines": {
