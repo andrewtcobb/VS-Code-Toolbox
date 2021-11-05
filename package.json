@@ -1,37 +1,36 @@
 {
-    "name": "vs-code-toolbox",
-    "displayName": "VS Code Toolbox",
-    "description": "An extension pack for VS Code containing a collection of helpful, language-agnostic extensions for VS Code.",
-    "version": "0.0.1",
-    "publisher": "AndrewCobb",
-    "icon": "vs-code-toolbox.png",
-    "engines": {
-        "vscode": "^1.58.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "repository": {
-        "url": "https://github.com/andrewtcobb/VS-Code-Toolbox"
-    },
-    "extensionPack": [ 
-        "christian-kohler.path-intellisense", 
-        "ms-vsliveshare.vsliveshare", 
-        "quicktype.quicktype", 
-        "VisualStudioExptTeam.vscodeintellicode", 
-        "rangav.vscode-thunder-client",
-        "eamodio.gitlens",
-        "donjayamanne.githistory",
-        "ms-azuretools.vscode-docker",
-        "ms-vscode-remote.vscode-remote-extensionpack",
-        "coenraads.bracket-pair-colorizer",
-        "patbenatar.advanced-new-file",
-        "streetsidesoftware.code-spell-checker",
-        "vscode-icons-team.vscode-icons",
-        "chrmarti.regex",
-        "alefragnani.bookmarks",
-        "aaron-bond.better-comments",
-        "pnp.polacode",
-        "yzhang.markdown-all-in-one"
-    ]
+  "name": "vs-code-toolbox",
+  "displayName": "VS Code Toolbox",
+  "description": "An extension pack for VS Code containing a collection of helpful, language-agnostic extensions for VS Code.",
+  "version": "0.0.1",
+  "publisher": "AndrewCobb",
+  "icon": "vs-code-toolbox.png",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "repository": {
+    "url": "https://github.com/andrewtcobb/VS-Code-Toolbox"
+  },
+  "extensionPack": [
+    "christian-kohler.path-intellisense",
+    "ms-vsliveshare.vsliveshare",
+    "quicktype.quicktype",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "rangav.vscode-thunder-client",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "coenraads.bracket-pair-colorizer-2",
+    "patbenatar.advanced-new-file",
+    "streetsidesoftware.code-spell-checker",
+    "vscode-icons-team.vscode-icons",
+    "alefragnani.bookmarks",
+    "aaron-bond.better-comments",
+    "pnp.polacode",
+    "yzhang.markdown-all-in-one"
+  ]
 }
